@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-#Email Recipients (the folks whom you share the charger with!)
-EMAIL_RECIPIENTS="harshkumar@paypal.com,mohamansari@paypal.com,aksbhatia@paypal.com"
+#Email Recipients, separated by comma (the folks whom you share the charger with!)
+EMAIL_RECIPIENTS="email@yourdomain.com"
 
 #Get the available battery percentage.
 #Install the battery module from here: https://github.com/Goles/Battery
