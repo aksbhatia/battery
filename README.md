@@ -11,4 +11,4 @@ Sharing charger? This script will help your laptop stay charged!
 You can configure `EMAIL_RECIPIENTS` and `UPPER_THRESHOLD` (current: 90%) , `LOWER_THRESHOLD` (current: 10%) by editing the file `battery_check.sh`
 
 ## Screenshots
-![alt tag](https://cloud.githubusercontent.com/assets/16251720/24991339/a2962ef8-2037-11e7-9412-e4723bb0c6be.png)
+![alt tag](https://cloud.githubusercontent.com/assets/16251720/24997972/2bddfc86-2056-11e7-84d3-8aa00d975e8a.png)
